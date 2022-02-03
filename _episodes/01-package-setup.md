@@ -231,6 +231,7 @@ We will first be working in the `molecool` folder to build our package, and addi
 │   ├── data                        <- Sample additional data (non-code) which can be packaged
 │   │   ├── README.md
 │   │   └── look_and_say.dat
+│   ├── functions.py                <- Starting package module
 │   ├── tests                       <- Unit test directory with sample tests
 │   │   ├── __init__.py
 │   │   └── test_functions.py
